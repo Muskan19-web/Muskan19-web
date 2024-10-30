@@ -5,7 +5,7 @@
 
 🚀 Featured Projects Inventory Management System: Node.js-based app for inventory operations, demonstrating modular ES6 syntax and JavaScript classes. Shopping Cart Testing - TutorialsNinja: Cypress automation project for e-commerce testing, focused on user experience and functionality verification. 🌱 Currently Learning I'm diving deeper into API testing and exploring CI/CD integrations to automate further and streamline testing processes.
 
-📫 How to Reach Me LinkedIn: https://www.linkedin.com/in/muskan-patel-tester/ GitHub: github.com/Muskan19-web
+📫 How to Reach Me LinkedIn: https://www.linkedin.com/in/muskan-patel-tester/ 
 
 <!--
 **Muskan19-web/Muskan19-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
