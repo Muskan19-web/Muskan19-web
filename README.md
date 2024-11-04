@@ -16,7 +16,6 @@
 - *🧩 Problem Solving:* Enjoy debugging issues and optimizing test scripts to achieve efficiency.
 - *🤝 Collaboration:* Thrive in team environments, working closely with developers to enhance product quality.
 - *🎯 Automation-Driven:* Committed to expanding the scope of automation to improve test accuracy and save time.
-- 
 
 ## 🛠️ My Tech Toolbox:
 
