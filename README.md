@@ -39,8 +39,8 @@
 
 ## 🖇️ Let's Connect!
 
-- *📧 Email:*khushipatel59946@gmail.com
-- *🔗 LinkedIn:*www.linkedin.com/in/muskan-patel-tester
+- *📧 Email:* khushipatel59946@gmail.com
+- *🔗 LinkedIn:* www.linkedin.com/in/muskan-patel-tester
 
 ##
 
